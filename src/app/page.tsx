@@ -92,7 +92,9 @@ export default function Home() {
           </p>
         </a>
       </div>
-	  <Suspense fallback={<Loading />}/>
+	  <Suspense fallback={<Loading />}>
+		<h1>This is Home</h1>
+	  </Suspense>
     </main>
   )
 }
