@@ -6,7 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npx create-next-app my-adminlte-dashboard --use-npm --typescript
 cd my-adminlte-dashboard
 npm install admin-lte@3.1.0 react react-dom @types/react @types/react-dom
-
 ```
 
 ## Getting Started
